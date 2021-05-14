@@ -6,13 +6,14 @@ A collection of useful resources for the Hackers of BioHack.
 ### Table of Contents
 1. [Github](#git-and-github)
 2. [Environment](#environment)  
-3. [Sponsors](#sponsors)  
-4. [Healthcare](#healthcare)  
-5. [Programming Languages](#general-purpose-programming-languages)  
-6. [Web Development](#web-development)  
-7. [Hardware](#hardware-hacking-nut_and_bolt-hammer)  
-8. [Virtual/Augmented Reality](#virtualaugmented-reality)  
-9. [Mobile Development](#mobile-development-iphone)
+3. [Video Submissions](#video-submissions)
+4. [Sponsors](#sponsors)  
+5. [Healthcare](#healthcare)  
+6. [Programming Languages](#general-purpose-programming-languages)  
+7. [Web Development](#web-development)  
+8. [Hardware](#hardware-hacking-nut_and_bolt-hammer)  
+9. [Virtual/Augmented Reality](#virtualaugmented-reality)  
+10. [Mobile Development](#mobile-development-iphone)
 
 ## Git And Github
 
@@ -36,6 +37,14 @@ A collection of useful resources for the Hackers of BioHack.
 1. [Github](https://github.com)
     - The most popular web-based hosting service for version control using Git.
     - Offers all of the distributed version control and source code management functionality of Git along with some of its own features.
+
+## Video Submissions
+
+### Submitting a Video
+
+**⚠️ Attention: You will need to provide a video link depicting your project in order to be considered for prizes.**
+
+You may upload them on youtube and then add it to your Devpost submission.
 
 ## Environment
 
