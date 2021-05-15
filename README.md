@@ -21,7 +21,7 @@ A collection of useful resources for the Hackers of BioHack.
 
 **⚠️ Attention: You will need to provide a video link depicting your project in order to be considered for prizes.**
 
-You must [submit on devpost HERE] and add a video to your Devpost submission. [(tutorial here)](https://help.devpost.com/hc/en-us/articles/360052233752-Uploading-a-demo-video).
+You must [submit on devpost HERE](https://biohack-ucr-2021.devpost.com/) and add a video to your Devpost submission. [(tutorial here)](https://help.devpost.com/hc/en-us/articles/360052233752-Uploading-a-demo-video).
 
 ## Git And Github
 
